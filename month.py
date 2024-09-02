@@ -1,4 +1,4 @@
-# Enter a month. Print the number of days in that month. Assume a non-leap year.
+# Enter a month. Print the number of days in that month. Assume a non-leap year:
 
 def days_in_month():
     if month == 1:
