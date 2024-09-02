@@ -1,6 +1,6 @@
 Solution of these programs are in my Github:
 
-Assignment No.5 
+Assignment No.5
 Using conditional statements, check if the number is:
  - Even or Odd.
  - Positive, Negative, or Zero.
